@@ -2,7 +2,7 @@
 
 /** Hide some schemas
 * @link https://www.adminer.org/plugins/#use
-* @author Mett Edmonston, https://github.com/archlemon
+* @author Matt Edmonston, https://github.com/archlemon
 * @license https://www.gnu.org/licenses/gpl-2.0.html GNU General Public License, version 2 (one or other)
 */
 class AdminerSchemaHide {
